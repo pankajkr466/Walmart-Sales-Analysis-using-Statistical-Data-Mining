@@ -1,6 +1,7 @@
-# Statistical-data-mining-on-Walmart-sales-data
+# Walmart Sales Analysis using Statistical Data Mining
 
 •	Prepared, extracted, and cleansed data to perform exploratory and statistical analysis using different statistical techniques through R
+
 •	Analyzed the weekly sales of Walmart stores by implementing Regression Models in R Studio and visualization using Tableau
 
 •	Exploited Multilevel and Time series analysis to perform statistical analysis using R 
